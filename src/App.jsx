@@ -154,7 +154,7 @@ function App() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2024 Architektur Studio. All rights reserved.</p>
+          <p>&copy; 2024 sachin Studio. All rights reserved.</p>
         </div>
       </footer>
     </div>
